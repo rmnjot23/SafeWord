@@ -29,12 +29,12 @@ h1 {
 
 /* ===== Paragraph Styling ===== */
 p {
-    color: #94a1b2;                   /* Cool gray-blue */
+    color: #f6f7f9;                   /* Cool gray-blue */
     font-size: 1.1rem;
     max-width: 800px;
     margin: 0 auto 20px auto;
     padding: 0 20px;
-    text-shadow: 0 0 4px #000;
+    
 }
 
 h1:hover {
