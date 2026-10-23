@@ -32,4 +32,5 @@ p {
 }
 
 h1:hover {
-    animation: pulseGlow 2s infinite;
+    animation: pulseGlow 2s infinite; 
+}    
