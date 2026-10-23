@@ -39,4 +39,7 @@ p {
 
 h1:hover {
     animation: pulseGlow 2s infinite; 
-}    
+}   
+h3{
+    text-align: center;
+} 
